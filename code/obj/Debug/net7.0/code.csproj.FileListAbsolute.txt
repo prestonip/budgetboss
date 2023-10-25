@@ -1,0 +1,14 @@
+/Users/preston/budgetboss/code/bin/Debug/net7.0/code
+/Users/preston/budgetboss/code/bin/Debug/net7.0/code.deps.json
+/Users/preston/budgetboss/code/bin/Debug/net7.0/code.runtimeconfig.json
+/Users/preston/budgetboss/code/bin/Debug/net7.0/code.dll
+/Users/preston/budgetboss/code/bin/Debug/net7.0/code.pdb
+/Users/preston/budgetboss/code/obj/Debug/net7.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/preston/budgetboss/code/obj/Debug/net7.0/code.AssemblyInfoInputs.cache
+/Users/preston/budgetboss/code/obj/Debug/net7.0/code.AssemblyInfo.cs
+/Users/preston/budgetboss/code/obj/Debug/net7.0/code.csproj.CoreCompileInputs.cache
+/Users/preston/budgetboss/code/obj/Debug/net7.0/code.dll
+/Users/preston/budgetboss/code/obj/Debug/net7.0/refint/code.dll
+/Users/preston/budgetboss/code/obj/Debug/net7.0/code.pdb
+/Users/preston/budgetboss/code/obj/Debug/net7.0/code.genruntimeconfig.cache
+/Users/preston/budgetboss/code/obj/Debug/net7.0/ref/code.dll
